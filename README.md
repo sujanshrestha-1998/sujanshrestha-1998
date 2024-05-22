@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 <br/>
-<p>🔭 I'm currently working on ..... <br/> 🌱 I am currently learning mern stack</p>
+<p>🔭 I'm currently working on ..... <br/> 🌱 I am currently learning Mern Stack</p>
 <p></p>
 
 ## 💻 Tech Stack:
