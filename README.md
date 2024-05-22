@@ -1,5 +1,5 @@
 <h2>Hi There 👋</h2>
-<br/>
+
 **`Full Stack Developer`**
 
 # 💻 Tech Stack:
