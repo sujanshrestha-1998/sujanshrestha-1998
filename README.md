@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 <br/>
-
+<p>🔭 I'm currently working on ..... <br/> 🌱 I am currently learning Mern Stack</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanshrestha10) 
