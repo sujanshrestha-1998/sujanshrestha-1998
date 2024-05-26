@@ -1,6 +1,6 @@
 # Hi there👋
 
-**`Full-Stack Developer`**
+
 <br/>
 <p>🔭 I'm currently working on ..... <br/> 🌱 I am currently learning Mern Stack</p>
 
